@@ -398,7 +398,7 @@ public class SlideDateTimeDialogFragment extends DialogFragment implements DateF
         @Override
         public int getCount()
         {
-            return 2;
+            return 1;
         }
     }
 }
